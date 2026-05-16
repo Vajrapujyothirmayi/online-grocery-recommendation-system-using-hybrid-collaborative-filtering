@@ -1,0 +1,4 @@
+﻿id	score	product_id	user_id	producer_name
+1	5	1	2	indraja
+2	4	1	20	indraja
+3	5	2	20	jyo

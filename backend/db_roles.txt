@@ -1,0 +1,4 @@
+Field	Type	Null	Key	Default	Extra
+id	int	NO	PRI	NULL	auto_increment
+name	enum('ROLE_CONSUMER','ROLE_PRODUCER','ROLE_ADMIN')	YES		NULL	
+username	varchar(255)	YES		NULL	

@@ -1,0 +1,8 @@
+﻿Field	Type	Null	Key	Default	Extra
+id	bigint	NO	PRI	NULL	auto_increment
+last_updated	datetime(6)	YES		NULL	
+similarity_score	double	YES		NULL	
+product_a_id	bigint	YES	MUL	NULL	
+product_b_id	bigint	YES	MUL	NULL	
+productaname	varchar(255)	YES		NULL	
+productbname	varchar(255)	YES		NULL	

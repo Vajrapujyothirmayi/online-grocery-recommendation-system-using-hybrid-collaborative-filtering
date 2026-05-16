@@ -1,0 +1,4 @@
+﻿id	order_date	total_amount	user_id	product_name	quantity
+1	2026-03-12 11:33:23.421276	1200	2	Apples	20
+2	2026-03-22 16:53:25.765417	720	20	Apples and 1 other items	7
+3	2026-03-22 17:45:38.333636	1480	2	Apples and 3 other items	9

@@ -1,0 +1,34 @@
+Field	Type	Null	Key	Default	Extra
+id	bigint	NO	PRI	NULL	auto_increment
+user_id	bigint	YES	UNI	NULL	
+total_items	int	YES		NULL	
+total_price	double	YES		NULL	
+Field	Type	Null	Key	Default	Extra
+id	bigint	NO	PRI	NULL	auto_increment
+quantity	int	YES		NULL	
+cart_id	bigint	YES	MUL	NULL	
+product_id	bigint	YES	MUL	NULL	
+product_name	varchar(255)	YES		NULL	
+total_price	double	YES		NULL	
+unit_price	double	YES		NULL	
+Field	Type	Null	Key	Default	Extra
+id	bigint	NO	PRI	NULL	auto_increment
+price_at_purchase	double	YES		NULL	
+quantity	int	YES		NULL	
+order_id	bigint	YES	MUL	NULL	
+product_id	bigint	YES	MUL	NULL	
+product_name	varchar(255)	YES		NULL	
+Field	Type	Null	Key	Default	Extra
+id	bigint	NO	PRI	NULL	auto_increment
+score	int	YES		NULL	
+product_id	bigint	YES	MUL	NULL	
+user_id	bigint	YES	MUL	NULL	
+producer_name	varchar(255)	YES		NULL	
+Field	Type	Null	Key	Default	Extra
+id	bigint	NO	PRI	NULL	auto_increment
+last_updated	datetime(6)	YES		NULL	
+similarity_score	double	YES		NULL	
+product_a_id	bigint	YES	MUL	NULL	
+product_b_id	bigint	YES	MUL	NULL	
+productaname	varchar(255)	YES		NULL	
+productbname	varchar(255)	YES		NULL	

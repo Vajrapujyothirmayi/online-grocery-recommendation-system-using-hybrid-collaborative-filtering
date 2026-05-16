@@ -1,0 +1,5 @@
+﻿cart_items product_name	COUNT(*)
+cart_items product_name	0
+order_items product_name	0
+ratings producer_name	0
+users roles_list	0

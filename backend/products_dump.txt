@@ -1,0 +1,5 @@
+﻿id	available_quantity	category	description	image_url	name	price	producer_id
+1	9	Fruits	100% natural and pesticide-free	C:\\Users\\naras\\Desktop\\mini project\\mproj\\apples.jpg	Apples	60	1
+2	19	Fruits	100% organic and healthy		strawberry	120	19
+3	18	Dairy	fresh milk		milk	50	1
+4	45	Meat	100% fresh, locally-sourced tender chicken. Antibiotic-free and thoroughly cleaned, ready to be the star of your next delicious home-cooked meal.		chicken	240	1

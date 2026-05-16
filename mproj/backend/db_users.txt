@@ -1,0 +1,11 @@
+Field	Type	Null	Key	Default	Extra
+id	bigint	NO	PRI	NULL	auto_increment
+email	varchar(255)	YES	UNI	NULL	
+password	varchar(255)	YES		NULL	
+username	varchar(255)	YES	UNI	NULL	
+user_roles	varchar(255)	YES		NULL	
+roles_list	varchar(255)	YES		NULL	
+Field	Type	Null	Key	Default	Extra
+user_id	bigint	NO	PRI	NULL	
+role_id	int	NO	PRI	NULL	
+username	varchar(255)	NO		NULL	

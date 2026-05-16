@@ -1,0 +1,6 @@
+﻿id	email	password	username	user_roles	roles_list
+1	indraja@gmail.com	$2a$10$sOSR.ozF8nYTHau2ciZfau0Y45B5daNZi8vmtjpm/Kq0F.QAmOaiS	indraja	NULL	ROLE_PRODUCER
+2	indhu@gmail.com	$2a$10$odkomU.cc.gl5lsdLfj8D.5oUofzYUeOe09uguCYZSA2aTmO6WuYO	indhu	NULL	ROLE_CONSUMER
+19	jyo@gmail.com	$2a$10$wnIoBC.hF3MFkrovaojSv.pp0wGnaD7uRXT8EUbBbx19oPFyc4rJS	jyo	NULL	ROLE_PRODUCER
+20	jyothirmayi@gmail.com	$2a$10$H5qiEZ1jHQmewZH.wg/zFuqMlorh9E.yohsUIlwvYIHmVU4RsXQou	jyothirmayi	NULL	ROLE_CONSUMER
+21	seetha@gmail.com	$2a$10$.LDutBN2zaSCF5DhMoK3Du.kw.6WTA41tkzDyxJUCAZ4.zA.lCPDy	seetha	NULL	ROLE_CONSUMER
